@@ -29,7 +29,7 @@ sys.path.append("search_api/src")
 
 translator_module = importlib.import_module("bcrf_translator")
 
-from src import app as search_api
+from search_api.src import app as search_api
 
 # For local development/testing
 if __name__ == "__main__":

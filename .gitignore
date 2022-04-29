@@ -1,3 +1,6 @@
+# Generated BUILD file
+BUILD
+
 **/.vscode/
 
 #eclipse project files
@@ -20,7 +23,7 @@ src/instance/search-config.yaml
 
 __pycache__/
 
-# Portal cache
-src/sennet_translation/addl_index_transformations/portal/cache/*.jsonld
-
-src/sennet_translation/addl_index_transformations/portal/__pycache__/
+# Docker copied files and directories
+docker/search-api/src
+docker/BUILD
+docker/VERSION

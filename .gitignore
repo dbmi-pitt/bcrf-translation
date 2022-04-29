@@ -25,5 +25,5 @@ __pycache__/
 
 # Docker copied files and directories
 docker/search-api/src
-docker/BUILD
-docker/VERSION
+docker/search-api/BUILD
+docker/search-api/VERSION

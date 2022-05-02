@@ -1,4 +1,4 @@
-# hubmap-translation
+# bcrf-translation
 
 ## Working with submodule
 
